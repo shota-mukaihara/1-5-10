@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: #6c6b6b
+  color: #6c6b6b;
 }
 
 a{
@@ -46,6 +46,8 @@ header .headline{
 .main-visual-content{
   width: 350px;
   height: 300px;
+}
+
 .main{
   width: 840px;
   /* height: 1400px; */
@@ -64,14 +66,14 @@ header .headline{
   float: left;
 }
 
-.footer{
+footer{
   width: 100%;
   height: 120px;
   text-align: center;
   padding: 50px 0;
-  background-color: #848282
+  background-color: #848282;
 }
 
 .footer-text{
-  color: #fff
+  color: #fff;
 }
